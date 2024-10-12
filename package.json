@@ -17,6 +17,10 @@
       {
         "command": "atlassian-forge.runForgeTunnel",
         "title": "Run Forge Tunnel"
+      },
+      {
+        "command": "atlassian-forge.runForgeDeploy",
+        "title": "Run Forge Deploy"
       }
     ]
   },
